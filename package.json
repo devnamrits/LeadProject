@@ -1,0 +1,14 @@
+{
+  "name": "leadproject",
+  "version": "1.0.0",
+  "description": "Project for Lead-a-thon",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "devnamrits",
+  "license": "ISC",
+  "dependencies": {
+    "expressjs": "^1.0.1"
+  }
+}
